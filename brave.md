@@ -6,6 +6,6 @@ echo "deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stretch m
 sudo apt update
 sudo apt install brave-keyring brave-browser
 ```
-##### Rodar o seguinte comando caso der o erro: No usable sandbox! You probably need to enable user namespaces in your kernel
+- Rodar o seguinte comando caso der o erro: No usable sandbox! You probably need to enable user namespaces in your kernel
 ```
 sudo echo 'kernel.unprivileged_userns_clone=1' > /etc/sysctl.d/00-local-userns.conf
