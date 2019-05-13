@@ -1,8 +1,8 @@
 ## Sites interessantes
     
-  [linuxandjava.blogspot](https://linuxandjava.blogspot.com)
+  <https://linuxandjava.blogspot.com>
     
-  [explainshell](https://explainshell.com)
+  <https://explainshell.com>
 
 ## Youtube
     
