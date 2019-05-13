@@ -1,8 +1,8 @@
 ## Sites interessantes
 
-[https://linuxandjava.blogspot.com/ link](https://linuxandjava.blogspot.com/)
-[https://explainshell.com/ link](https://explainshell.com/)
-[Heading link](https://github.com/pandao/editor.md "Heading link")
+#[https://linuxandjava.blogspot.com/](https://linuxandjava.blogspot.com/)
+#[https://explainshell.com/](https://explainshell.com/)
+
 
 ## Youtube
     
