@@ -1,7 +1,7 @@
 ## Sites interessantes
 
-    - https://linuxandjava.blogspot.com/
-    - https://explainshell.com/
+    [https://linuxandjava.blogspot.com/ link](https://linuxandjava.blogspot.com/)
+    [https://explainshell.com/ link](https://explainshell.com/)
 
 ## Youtube
     
