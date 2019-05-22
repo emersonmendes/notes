@@ -7,7 +7,7 @@
 <https://github.com/30-seconds/30-seconds-of-code>
 
 <details>
-<summary>## Canais Youtube</summary>
+<summary>Canais Youtube</summary>
 
 [Filipe Deschamps - Programação e Tecnologia](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 
@@ -16,7 +16,7 @@
 </details>
 
 <details>
-<summary>## Podcasts</summary>
+<summary>Podcasts</summary>
 
 [Hipsters ponto tech](https://hipsters.tech/)
 
