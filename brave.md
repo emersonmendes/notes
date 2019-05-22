@@ -1,6 +1,4 @@
-#
-
-## Instalação brave debian 9
+# Instalação brave debian 9
 
 ```bash
 echo "deb [arch=amd64] https://brave-browser-apt-release.s3.brave.com/ stretch main" | sudo tee /etc/apt/sources.list.d/brave-browser-release-stretch.list

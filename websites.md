@@ -1,6 +1,4 @@
-#
-
-## Sites interessantes
+# Sites interessantes
 
 <https://linuxandjava.blogspot.com>
 
