@@ -8,6 +8,7 @@
 
 <details>
 <summary>Canais Youtube</summary>
+<br/>
 
 [`Filipe Deschamps - Programação e Tecnologia`](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 
@@ -17,6 +18,7 @@
 
 <details>
 <summary>Podcasts</summary>
+<br/>
 
 [`Hipsters ponto tech`](https://hipsters.tech/)
 
